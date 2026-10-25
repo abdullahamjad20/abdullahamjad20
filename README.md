@@ -1,121 +1,23 @@
+<!-- SETUP (do once): 1. Repo name must be exactly your GitHub username (Settings -> Repository name) 2. Find & Replace YOUR_GITHUB_USERNAME -> your real GitHub username 3. Upload these into the repo: assets/divider.svg assets/tech-marquee.svg assets/Abdullah_Amjad_CV.pdf .github/workflows/snake.yml <- makes the snake animation 3b. Settings -> Actions -> General -> Workflow permissions -> 'Read and write permissions' -> Save 4. Actions tab -> "Generate Snake" -> Run workflow (first time only) 5. Replace REPO_NAME_1 / REPO_NAME_2 with your real project repositories --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0A1128,100:00A8FF&height=260&section=header&text=Abdullah%20Amjad&fontSize=58&fontColor=FFFFFF&stroke=00A8FF&strokeWidth=1&fontAlignY=36&animation=twinkling&desc=Full%20Stack%20Developer%20%C2%B7%20BSCS%20Student&descSize=18&descColor=9FD8FF&descAlignY=58" alt="Abdullah Amjad banner" width="100%" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00A8FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Full+Stack+Developer;Computer+Science+Student;HTML+%C2%B7+CSS+%C2%B7+JavaScript;Python+%C2%B7+Java+%C2%B7+C%2B%2B;Linux+%26+Networking+Enthusiast;Building+real-world+software" alt="Typing headline" /> </a> <br/> <img src="https://img.shields.io/badge/Full%20Stack-Developer-00A8FF?style=for-the-badge&labelColor=0A1128" alt="Full Stack Developer" /> <img src="https://img.shields.io/badge/BSCS-Student-00A8FF?style=for-the-badge&labelColor=0A1128" alt="BSCS Student" /> <img src="https://img.shields.io/badge/Linux-User-00A8FF?style=for-the-badge&logo=linux&logoColor=00A8FF&labelColor=0A1128" alt="Linux" /> <img src="https://img.shields.io/badge/Networking-Cisco-00A8FF?style=for-the-badge&labelColor=0A1128" alt="Cisco" />
 
-<div align="center">
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:FC00FF&height=200&section=header&text=Abdullah%20Amjad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=55" width="100%" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/assets/Abdullah_Amjad_CV.pdf"> <img src="https://img.shields.io/badge/Download-My%20CV-00A8FF?style=for-the-badge&labelColor=0A1128" alt="Download CV" /> </a> <a href="https://www.linkedin.com/in/abdullah-amjad-3857b535a/"> <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Amjad-00A8FF?style=for-the-badge&labelColor=0A1128" alt="LinkedIn" /> </a> <a href="mailto:abdullahamjadx20@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email%20Me-00A8FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1128" alt="Gmail" /> </a> </div> <div align="center"> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/divider.svg" alt="" width="100%" /> </div> <div align="center"> <table> <tr> <td align="center" width="25%"><b>Front End</b><br/><sub>HTML, CSS, JavaScript</sub></td> <td align="center" width="25%"><b>Back End</b><br/><sub>Python, Java, Node.js</sub></td> <td align="center" width="25%"><b>Systems</b><br/><sub>C++, Linux, Bash</sub></td> <td align="center" width="25%"><b>Networking</b><br/><sub>Cisco Packet Tracer</sub></td> </tr> </table> </div> <div align="center"> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/divider.svg" alt="" width="100%" /> </div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=Tech+Stack" alt="Tech Stack" /> </div> <div align="center"> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/tech-marquee.svg" alt="Scrolling tech stack" width="100%" /> <br/> <table> <tr> <th align="center">Languages</th> <th align="center">Front End</th> <th align="center">Back End and Databases</th> </tr> <tr> <td align="center"><img src="https://skillicons.dev/icons?i=py,java,cpp,js,bash&theme=dark" alt="Python, Java, C++, JavaScript, Bash" /></td> <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="HTML, CSS, JavaScript, React, Tailwind" /></td> <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" alt="Node.js, Express, MySQL, MongoDB" /></td> </tr> <tr> <th align="center">Systems and Networking</th> <th align="center">Tools</th> <th align="center">Mobile</th> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=linux,ubuntu&theme=dark" alt="Linux, Ubuntu" /><br/> <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-00A8FF?style=for-the-badge&labelColor=0A1128" alt="Cisco Packet Tracer" /> </td> <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code, Postman" /></td> <td align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" alt="Flutter, Dart, Android Studio" /></td> </tr> </table> </div> <div align="center"> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/divider.svg" alt="" width="100%" /> </div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=My+Resume" alt="My Resume" /> </div> <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdullah+Amjad+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Reality+%E2%9C%A8;Building+Modern+Web+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
+Want the full picture of my education, skills and experience? Grab my CV.
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=7B2FF7&style=for-the-badge" alt="Profile views" />
-</a>
+<br/><br/>
 
-</div>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/assets/Abdullah_Amjad_CV.pdf"> <img src="https://img.shields.io/badge/View%20%2F%20Download-Abdullah%20Amjad%20CV-00A8FF?style=for-the-badge&labelColor=0A1128" alt="View or download CV" /> </a> </div> <div align="center"> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/divider.svg" alt="" width="100%" /> </div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=GitHub+Analytics" alt="GitHub Analytics" /> </div> <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&border_radius=12&bg_color=0A1128&title_color=00A8FF&icon_color=00A8FF&text_color=C9D1D9&border_color=12306B&include_all_commits=true" alt="GitHub stats" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&border_radius=12&bg_color=0A1128&title_color=00A8FF&text_color=C9D1D9&border_color=12306B" alt="Top languages" /> <br/> <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=false&border_radius=12&background=0A1128&border=12306B&stroke=12306B&ring=00A8FF&fire=00A8FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00A8FF&sideLabels=8BA3C7&dates=8BA3C7" alt="GitHub streak" />
 
----
+<br/><br/>
 
-## 💫 About Me
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0A1128&color=00A8FF&line=00A8FF&point=FFFFFF&area=true&area_color=00A8FF&hide_border=true&radius=12" alt="Contribution activity graph" width="100%" /> </div> <div align="center"> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/divider.svg" alt="" width="100%" /> </div> <!-- The snake eating your contributions graph! Needs .github/workflows/snake.yml (included) and YOUR_GITHUB_USERNAME replaced. --> <h3 align="center">⚡ Contribution Streak Snake</h3> <p align="center"> <!-- Light Mode / Dark Mode responsive display --> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"> </picture> </p> <div align="center"> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/divider.svg" alt="" width="100%" /> </div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=Featured+Projects" alt="Featured Projects" /> </div> <!-- Replace REPO_NAME_1 / REPO_NAME_2 with real repository names. Duplicate a cell to add more. --> <div align="center"> <table> <tr> <td align="center"> <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_1&bg_color=0A1128&title_color=00A8FF&text_color=C9D1D9&icon_color=00A8FF&border_color=12306B&border_radius=12" alt="Project 1" /> </a> </td> <td align="center"> <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&bg_color=0A1128&title_color=00A8FF&text_color=C9D1D9&icon_color=00A8FF&border_color=12306B&border_radius=12" alt="Project 2" /> </a> </td> </tr> </table> </div> <div align="center"> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/divider.svg" alt="" width="100%" /> </div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=Connect" alt="Connect" /> </div> <div align="center"> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GitHub-Profile-0A1128?style=for-the-badge&logo=github&logoColor=00A8FF&labelColor=000000" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/abdullah-amjad-3857b535a/"> <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Amjad-0A1128?style=for-the-badge&labelColor=000000" alt="LinkedIn" /> </a> <a href="mailto:abdullahamjadx20@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email%20Me-0A1128?style=for-the-badge&logo=gmail&logoColor=00A8FF&labelColor=000000" alt="Gmail" /> </a> <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/assets/Abdullah_Amjad_CV.pdf"> <img src="https://img.shields.io/badge/CV-Download-0A1128?style=for-the-badge&labelColor=000000" alt="CV" /> </a>
 
-👋 Hey! I'm **Abdullah Amjad**, a passionate **Full Stack Developer** who loves building modern, responsive, and user-friendly web applications.
+<br/><br/>
 
-- 🚀 Passionate about full stack web development
-- 💻 Building creative and scalable web applications
-- 🌱 Always learning new technologies and improving my skills
-- 🎨 Love clean UI, beautiful designs, and great user experiences
-- 🤝 Open to collaboration and exciting projects
-- ⚡ Turning coffee ☕ into code 💻
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1800&color=9FD8FF&center=true&vCenter=true&repeat=true&width=520&height=60&multiline=true&lines=%22Talk+is+cheap.+Show+me+the+code.%22;%E2%80%94+Linus+Torvalds" alt="Talk is cheap. Show me the code. — Linus Torvalds" /> <br/> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00A8FF&style=for-the-badge&labelColor=0A1128" alt="Profile views" /> </div> <div align="center"> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/divider.svg" alt="" width="100%" /> </div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=1000&color=00A8FF&center=true&vCenter=true&repeat=false&width=460&height=50&lines=Contact" alt="Contact" /> </div> <div align="center">
 
----
+Open to learning opportunities, collaboration on interesting projects, and conversations with fellow developers.
 
-## 🛠️ Languages & Technologies
-
-<div align="center">
-
-### 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
-
-### ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,php&theme=dark" />
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
-
-### 🔧 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FC00FF&text_color=FFFFFF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=FC00FF&fire=00F7FF&currStreakLabel=00F7FF" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8" width="100%" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_My_Projects-7B2FF7?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-- 🌐 **Full Stack Web Apps** — Modern and responsive web applications
-- ⚡ **Creative Projects** — Turning ideas into functional solutions
-- 🔥 **Open Source** — Learning, building, and collaborating
-
-*Replace these examples with your actual projects and repository links.*
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-00DBDE?style=for-the-badge&logo=googlechrome&logoColor=black" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 "Code. Create. Innovate. Repeat." 🚀
-
-**Thanks for visiting my profile!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC00FF,50:7B2FF7,100:00F7FF&height=120&section=footer" width="100%" />
-
-</div>
+<br/> <a href="mailto:abdullahamjadx20@gmail.com"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1500&color=00A8FF&center=true&vCenter=true&repeat=true&width=520&height=40&lines=abdullahamjadx20%40gmail.com;Let%27s+build+something+great" alt="abdullahamjadx20@gmail.com" /> </a> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0A1128,100:00A8FF&height=120&section=footer&reversal=true" alt="" width="100%" /> </div>
