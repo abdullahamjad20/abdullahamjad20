@@ -76,7 +76,6 @@
 <hr>
 
 <h3 align="center">⚡ Contribution Streak Snake</h3>
-<img src="tech-marquee.svg" alt="Tech Stack">
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahamjadx20/abdullahamjadx20/output/github-contribution-grid-snake-dark.svg">
